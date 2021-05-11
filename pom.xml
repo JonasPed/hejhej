@@ -10,7 +10,7 @@
         </repository>
             <repository>
                 <id>github-public</id>
-                <url>https://public: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@maven.pkg.github.com/kvalitetsit/*</url>
+                <url>https://public:&#103;hp_1cb9v3eas2MMUIy1gjHEIg8im9yo5n0dfxnq@maven.pkg.github.com/kvalitetsit/*</url>
             </repository>
     </repositories>
 
